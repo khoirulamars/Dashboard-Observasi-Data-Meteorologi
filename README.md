@@ -15,3 +15,8 @@ To quantify this phenomenon, we conducted a study using white paint to compare r
 
 📍Data collection by KKN Tematik ITERA 2023/2024 in Kamulyan, Kalirejo, Negeri Katon, Pesawaran Lampung.
 
+
+![Home](https://github.com/khoirulamars/Dashboard_ObservasiDataMeteorologi/assets/111468833/b6993d6e-44ac-4ba6-99c5-9784a1d0044f)
+![Data AWS](https://github.com/khoirulamars/Dashboard_ObservasiDataMeteorologi/assets/111468833/b0bff055-4825-491a-85c3-f430d9e0a1b7)
+![Data IoT](https://github.com/khoirulamars/Dashboard_ObservasiDataMeteorologi/assets/111468833/c27a1fba-3be2-44e0-8070-27905535b2a2)
+![Map](https://github.com/khoirulamars/Dashboard_ObservasiDataMeteorologi/assets/111468833/6c0d25e9-bab2-4602-b60d-596cb96f3bb0)
